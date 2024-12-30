@@ -31,6 +31,6 @@ This project provides an advanced BMI (Body Mass Index) calculator built using P
    ```
 4. Run:
    ```bash
-   python3 bmi-calculator.py
+   python3 bmi_calculator.py
    ```
 ## License          
